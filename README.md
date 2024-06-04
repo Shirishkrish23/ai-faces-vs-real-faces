@@ -36,7 +36,13 @@ The third method utilizes frequency domain analysis coupled with a CNN to classi
 
 ## Results
 
-Results for each method, including model performance metrics and visualizations, are stored in the `results` directory.
+The shown results are of the 3rd method
+![image](https://github.com/TiredTaurus24/FreqVision/assets/96630810/9de06dbb-2f3c-460b-ab23-781ad7a18141)
+![image](https://github.com/TiredTaurus24/FreqVision/assets/96630810/f5678cc6-7d4d-4176-88a7-c0acada6ffab)
+![image](https://github.com/TiredTaurus24/FreqVision/assets/96630810/5e3aa14f-ba3b-4a7f-bb86-1d2f62e3b3a1)
+
+
+
 
 ## Conclusion
 
